@@ -96,7 +96,7 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 
 
-photo:<img width="1440" height="3040" alt="Screenshot_1761568002" src="https://github.com/user-attachments/assets/e6085571-313e-47a6-b540-a185086b570e" />
+photo:<img width="360" height="760" alt="Screenshot_1761568002" src="https://github.com/user-attachments/assets/e6085571-313e-47a6-b540-a185086b570e" />
 
 
 
